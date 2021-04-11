@@ -109,6 +109,8 @@
       <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
       <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
       <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/laravel-lang/lang" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/laravel-lang" />
     </include_path>
   </component>
   <component name="PhpUnit">
