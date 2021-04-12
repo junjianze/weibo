@@ -1,6 +1,6 @@
 @extends('layouts.defaults')
 @section('title',$user->name)
-@section('content');
+@section('content')
     {{$user->name}} - {{$user->email}}
     <div class="row">
         <div class="offest-md-2 col-md-8">
