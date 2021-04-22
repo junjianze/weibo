@@ -10052,3 +10052,10 @@ section.user_info h1 {
   max-width: 50px;
   border-radius: 50%;
 }
+
+#logout {
+  cursor: default;
+}
+#logout:hover {
+  background-color: transparent;
+}
